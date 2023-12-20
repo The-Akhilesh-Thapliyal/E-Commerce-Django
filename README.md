@@ -28,7 +28,7 @@ This Django project is a simple yet powerful e-commerce platform, designed with 
 
 5. **Placed Order**
 
-![Placed Order](http://drive.google.com/uc?export=view&id=1aG6l9vIPF-w2hbLl8R26rTHwEmHwfEVd)
+![Placed Order](http://drive.google.com/uc?export=view&id=1JipVOxy4R9TBYfmUznWIbyCzXXHYCDxo)
 
 6. **Search for products**
 
